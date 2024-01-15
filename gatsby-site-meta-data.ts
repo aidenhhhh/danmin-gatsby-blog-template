@@ -2,10 +2,10 @@ export default {
   /**
    * basic Information
    */
-  title: `jeong-min.com`,
-  description: `개발자 단민`,
+  title: `jin-soo.com`,
+  description: `개발자 진수`,
   language: `ko`,
-  siteUrl: `https://jeong-min.com/`,
+  siteUrl: `https://jin-soo.com/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
 
   /**
@@ -21,8 +21,8 @@ export default {
    * introduce yourself
    */
   author: {
-    name: `이정민`,
-    nickname: `단민`,
+    name: `한진수`,
+    nickname: `진수`,
     stack: ['Frontend', 'React', 'Typescript'],
     bio: {
       email: `ljm991108@gmail.com`,
